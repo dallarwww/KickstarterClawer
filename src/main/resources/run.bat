@@ -1,0 +1,1 @@
+java -Djava.util.logging.config.file=logging.properties -jar Clawer-0.0.1-SNAPSHOT.jar

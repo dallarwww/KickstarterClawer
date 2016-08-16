@@ -1,0 +1,15 @@
+#view all categories
+https://www.kickstarter.com/discover?ref=nav
+
+20 projects per page
+
+# search projects of one category by page
+https://www.kickstarter.com/discover/advanced?state=live&category_id=16&woe_id=0&sort=popularity&page=2
+# search comments of one project
+https://www.kickstarter.com/projects/1852466551/shiba-inu-plush/comments
+
+<a class="is-active js-load-project-comments js-load-project-content project-nav__link--comments tabbed-nav__link" data-comments-count="1097" data-content="comments" href="/projects/mobvoi/ticwatch-2-the-most-interactive-smartwatch/comments">
+
+50 comments per page
+
+https://www.kickstarter.com/projects/mobvoi/ticwatch-2-the-most-interactive-smartwatch/comments?cursor=14150375
